@@ -2,10 +2,6 @@
 
 ###
 
-<br clear="both">
-
-###
-
 <div align="left">
   <p>I'm really into Kotlin Multiplatform development, where I focus on creating efficient, cross-platform applications. Recently, I've been learning Swift and exploring how to combine it with Kotlin to build seamless apps across iOS and Android platforms. My passion for exploring new technologies drives me to constantly improve my skill set and stay updated on industry trends.</p>
 </div>
