@@ -1,8 +1,14 @@
-<h2 align="left">Hi 👋! My name is Mateusz and I'm a It student, from Poland</h2>
+<h2 align="left">Hi 👋! My name is Mateusz and I'm an IT student from Poland</h2>
 
 ###
 
 <br clear="both">
+
+###
+
+<div align="left">
+  <p>I'm really into Kotlin Multiplatform development, where I focus on creating efficient, cross-platform applications. Recently, I've been learning Swift and exploring how to combine it with Kotlin to build seamless apps across iOS and Android platforms. My passion for exploring new technologies drives me to constantly improve my skill set and stay updated on industry trends.</p>
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=matiz22&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -55,3 +61,4 @@
 <img src="https://raw.githubusercontent.com/matiz22/matiz22/output/snake.svg" alt="Snake animation" />
 
 ###
+[Generated with](https://profile-readme-generator.com/)
