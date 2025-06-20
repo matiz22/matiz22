@@ -42,7 +42,7 @@
   <a href="https://www.linkedin.com/in/mateusz-malich-290557227/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/___mateo___22/" target="_blank">
+  <a href="https://www.instagram.com/matiz22__/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=%20&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="mailto:mateuszmalich@gmail.com" target="_blank">
